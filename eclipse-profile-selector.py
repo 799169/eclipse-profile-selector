@@ -9,7 +9,7 @@ from gi.repository import Gtk
 class EclipseProfileSelector:
 	
 	PROFILE_TEMPLATE = "<big><b>{name}</b></big>\n<span size='2000'> </span>\n<small>{path}</small>"
-	PROFILE_DIRECTORY = os.path.expanduser("~/.eclipse-profiles")
+	PROFILE_DIRECTORY = os.path.expanduser("~/eclipse-profiles")
 	
 	def __init__(self):
 		

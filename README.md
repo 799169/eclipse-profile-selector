@@ -4,7 +4,7 @@ eclipse-profile-selector
 This little application manages Eclipse profiles for you. It understands
 a _profile_ to be a configuration and a workspace folder.
 
-Profiles are stored by default in `~/.eclipse-profiles`.
+Profiles are stored by default in `~/eclipse-profiles`.
 
 
 Dependencies
